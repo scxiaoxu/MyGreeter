@@ -1,0 +1,39 @@
+[
+    {
+        "name": "scxiaoxu/my_greeter",
+        "version": "1.0.0",
+        "version_normalized": "1.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/scxiaoxu/MyGreeter.git",
+            "reference": "2429df0de189a15698eea28e40fa8904be82c882"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/scxiaoxu/MyGreeter/zipball/2429df0de189a15698eea28e40fa8904be82c882",
+            "reference": "2429df0de189a15698eea28e40fa8904be82c882",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4.0"
+        },
+        "time": "2019-02-26T09:34:22+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "MyGreeter\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Apache-2.0"
+        ],
+        "authors": [
+            {
+                "name": "scxiaoxu",
+                "email": "scxiaoxu0909@163.com"
+            }
+        ]
+    }
+]

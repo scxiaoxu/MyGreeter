@@ -1,0 +1,20 @@
+{
+    "name": "scxiaoxu/my_greeter",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "scxiaoxu",
+            "email": "scxiaoxu0909@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+        "psr-4":{
+            "MyGreeter\\":"src/"
+        }
+    }
+}
